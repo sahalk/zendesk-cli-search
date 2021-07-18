@@ -57,4 +57,8 @@ This type of execution mainly requires PHP to be installed in your machine. Once
 
 Once the packages have been installed, you will be able to run "PHPUnit" to run all the testcases. This project has been developed using a TDD approach. You may use the following command to execute all the test cases: "./vendor/bin/phpunit -c phpunit.xml". 
 
+Additionally, debugging of the code during development was done by using XDebug.
+
+XDebug is a tool that is used to debug PHP code and can be used to develop and debug your code. The can be extremely useful for developers writing code in PHP. It provides an efficient way to debug your code during the development process.
+
 ## Have fun! :)
