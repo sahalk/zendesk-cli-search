@@ -20,6 +20,7 @@ Examples have been provided in the PDF.
 PHP Installation varies from OS to OS. Please refer to https://www.php.net/manual/en/install.php to get started with the installation for PHP.
 
 Please visit https://www.php.net/manual/en/install.macosx.php to install PHP in Mac.
+
 Please visit https://www.php.net/manual/en/install.windows.php to install PHP in Windows.
 
 ### Dependency Management
